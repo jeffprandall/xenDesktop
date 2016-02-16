@@ -5,7 +5,7 @@
 Asnp Citrix.*
 
 # Check License Status
-$licensingServer = "adfs2k12.royalelect.com"
+$licensingServer = "serverNameHere"
 $getServiceStatus = Get-Service -ComputerName $licensingServer CtxLSPortSvc
 
 # Get how many minutes the server has been up for
