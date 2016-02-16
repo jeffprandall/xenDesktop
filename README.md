@@ -1,4 +1,4 @@
-# xenDesktop
+# Citrix XenDesktop Scripts
 Powershell scripts to monitor Xen Desktop 7.X
 
 Place these files in a folder on your Xen Desktop Controller and run a scheduled task every 5 minutes.
